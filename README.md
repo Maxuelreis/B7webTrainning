@@ -1,9 +1,10 @@
 # B7webTrainning
-   -> Este é um repositório com os projetos da semana de treinamento do desafio 7 projetos em 7 dias com o professor Bonieky Lacerda.
+   -> Este é um repositório com os projetos da semana de treinamento do desafio 7 projetos em 7 dias com o professor Bonieky Lacerda. </br>
    -> Foram desenvolvidos 7 pequenos sistemas com a finalidade de estudos e treino na linguagem JavaScript onde usei também para solidificar
 meus conhecimentos iniciais em HTML e CSS.
 
 * Os projetos desenvolvidos foram:
+
 <ul>
     <li>Projeto 1: Uma bateria (música);</li>
     <li>Projeto 2: Desenvolvemos um relógio com mostrador analógico e digital;</li>
