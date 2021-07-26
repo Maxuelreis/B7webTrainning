@@ -14,3 +14,11 @@ meus conhecimentos iniciais em HTML e CSS.
     <li>Projeto 6: Desenvolvemos uma pág de Quiz;</li>
    <li>Projeto 7: Desenvolvemos uma tela Web com elementos drag & drop;</li>
 </ul>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
