@@ -4,13 +4,12 @@
 meus conhecimentos iniciais em HTML e CSS.
 
 * Os projetos desenvolvidos foram:
-
-    Projeto 1: Uma bateria (música);
-    Projeto 2: Desenvolvemos um relógio com mostrador analógico e digital;
-    Projeto 3: Página web para verificar o clima em qualquer cidade. Utilizamos API da OpenWeather, manipulando arquivos Json;
-    Projeto 4: Desenvolvemos o jogo lúdico conhecido como "Jogo da Velha";
-    Projeto 5: Desenvolvemos Pág Web com canvas;
-    Projeto 6: Desenvolvemos uma pág de Quiz;
-    Projeto 7: Desenvolvemos uma tela Web com elementos drag & drop;
-   
-
+<ul>
+    <li>Projeto 1: Uma bateria (música);</li>
+    <li>Projeto 2: Desenvolvemos um relógio com mostrador analógico e digital;</li>
+    <li>Projeto 3: Página web para verificar o clima em qualquer cidade. Utilizamos API da OpenWeather, manipulando arquivos Json;</li>
+    <li>Projeto 4: Desenvolvemos o jogo lúdico conhecido como "Jogo da Velha";</li>
+    <li>Projeto 5: Desenvolvemos Pág Web com canvas;</li>
+    <li>Projeto 6: Desenvolvemos uma pág de Quiz;</li>
+   <li>Projeto 7: Desenvolvemos uma tela Web com elementos drag & drop;</li>
+</ul>
